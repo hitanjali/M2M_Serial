@@ -8,6 +8,7 @@
 // Created 29 March 2006
 
 // This example code is in the public domain.
+// Connected to 3 slaves and reads
 
 
 #include <Wire.h>
